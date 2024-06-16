@@ -1,0 +1,5 @@
+pkg install git bash python python2 python3 ruby curl gnupg ncurses-utils -y
+pkg install wget zip unzip figlet openssh which cloudflared figlet cowsay mpv sox -y
+gem install lolcat
+python3 -m pip install requests mechanize bs4
+python3 -m pip install pycryptodome keyboard rich colorama tqdm
