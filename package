@@ -5,4 +5,5 @@ pkg install cloudflared figlet -y
 pkg install cowsay mpv sox -y
 gem install lolcat
 python3 -m pip install requests mechanize bs4
-python3 -m pip install pycryptodome keyboard rich colorama tqdm
+python3 -m pip install pycryptodome keyboard 
+python3 -m pip install rich colorama tqdm
